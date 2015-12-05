@@ -18,13 +18,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-$ php composer.phar require cinghie/yii2-tcpdf "dev-master"
+$ php composer.phar require hbalkhi/yii2-tcpdf "dev-master"
 ```
 
 or add
 
 ```
-"cinghie/yii2-tcpdf": "dev-master"
+"hbalkhi/yii2-tcpdf": "dev-master"
 ```
 
 to the ```require``` section of your `composer.json` file.
@@ -37,7 +37,7 @@ to the ```require``` section of your `composer.json` file.
 ...
 		// Yii2 TCPDF
 		'tcpdf' => [
-			'class' => 'cinghie\tcpdf\TCPDF',
+			'class' => 'hbalkhi\tcpdf\TCPDF',
 		],
 		...
 ]</pre>
