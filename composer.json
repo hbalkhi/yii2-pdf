@@ -1,5 +1,5 @@
 {
-    "name": "hbalkhi/yii2-tcpdf",
+    "name": "hbalkhi/yii2-pdf",
     "description": "Yii2 TCPDF to load TCPDF libraries in a Yii2 site.",
     "keywords": ["yii2", "pdf", "TCPDF"],
     "homepage": "https://github.com/hbalkhi/yii2-tcpdf",
